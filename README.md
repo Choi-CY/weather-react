@@ -5,7 +5,7 @@ Learning React-Native by Buliding Weather Mobile App Practice
 I gonna upload what I studied of React-Native in here.
 # -프로젝트 이미지 - Project Images
 <div>
-    <img src="https://user-images.githubusercontent.com/41564888/96101707-b70e6780-0f10-11eb-9e3b-59c60d7cc9c0.JPG">
+    <img width = "200" src="https://user-images.githubusercontent.com/41564888/96101707-b70e6780-0f10-11eb-9e3b-59c60d7cc9c0.JPG">
     <img src="https://user-images.githubusercontent.com/41564888/96101869-dd340780-0f10-11eb-9e6e-8fb177c23ec2.JPG">
     <img src="https://user-images.githubusercontent.com/41564888/96101897-e58c4280-0f10-11eb-9fb0-e09fa77a5c6f.JPG">
 </div>
